@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+  
+  <h1>About the Photographer</h1>
+  
+  <p>I am a passionate photographer who loves to capture moments and tell stories through my lens.</p>
+  
+  <footer>
+    &copy; 2023 Photography Portfolio. All rights reserved.
+  </footer>
+</body>
+</html>
