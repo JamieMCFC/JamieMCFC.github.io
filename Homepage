@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Photography Portfolio</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+  
+  <h1>Welcome to my Photography Portfolio!</h1>
+  
+  <p>Explore my stunning collection of photographs that capture beautiful moments.</p>
+  
+  <footer>
+    &copy; 2023 Photography Portfolio. All rights reserved.
+  </footer>
+</body>
+</html>
+about.html (About Page)
+
+html
+Copy code
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+  
+  <h1>About the Photographer</h1>
+  
+  <p>I am a passionate photographer who loves to capture moments and tell stories through my lens.</p>
+  
+  <footer>
+    &copy; 2023 Photography Portfolio. All rights reserved.
+  </footer>
+</body>
+</html>
+contact.html (Contact Page)
+
+html
+Copy code
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+  
+  <h1>Contact the Photographer</h1>
+  
+  <p>Interested in working together or have any questions? Feel free to get in touch!</p>
+  
+  <footer>
+    &copy; 2023 Photography Portfolio. All rights reserved.
+  </footer>
+</body>
+</html>
+Remember to style your website using the CSS file provided earlier, or you can modify it to match your desired visual aesthetic. Additionally, you can replace the placeholder text with your own photography content and add image elements to showcase your work.
+
+
+
+
+
+
