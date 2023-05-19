@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+  
+  <h1>Contact the Photographer</h1>
+  
+  <p>Interested in working together or have any questions? Feel free to get in touch!</p>
+  
+  <footer>
+    &copy; 2023 Photography Portfolio. All rights reserved.
+  </footer>
+</body>
+</html>
